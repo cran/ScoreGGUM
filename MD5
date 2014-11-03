@@ -1,0 +1,9 @@
+e96707a48a5ef3441520711a19e7bef5 *DESCRIPTION
+a5ee16b6e1d405d44310eb10a9090b5f *NAMESPACE
+af1bbc51223e7f2dd96b95e1eef07929 *R/read.GGUM.R
+bbb2568ac3dafd6cdaaa859b1dc499d5 *R/score.GGUM.R
+6bce04c2c4358cc8aa57696b2fd476b3 *inst/extdata/ex1_data.txt
+a1abc8fdfca8fe2937a614f9a6e3d5cc *inst/extdata/ex1_pars.txt
+efed29ca10074cb8515bf99fa700c266 *man/ScoreGGUM-package.Rd
+2f2a15ee552493c1989eee0a99e83357 *man/read.GGUM.Rd
+1e7d2235373bb6dc4c7bac4e92a58556 *man/score.GGUM.Rd
